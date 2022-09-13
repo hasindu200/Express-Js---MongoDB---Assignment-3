@@ -1,0 +1,26 @@
+{
+  "name": "assignment-three-mongodb",
+  "version": "1.0.0",
+  "description": "ijse",
+  "main": "app.js",
+  "scripts": {
+    "start": "node app.js",
+    "nodemon": "nodemon app.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/hasindu200/Express-Js---MongoDB---Assignment-3.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/hasindu200/Express-Js---MongoDB---Assignment-3/issues"
+  },
+  "homepage": "https://github.com/hasindu200/Express-Js---MongoDB---Assignment-3#readme",
+  "dependencies": {
+    "express": "^4.18.1",
+    "mongodb": "^4.9.1",
+    "mongoose": "^6.6.0",
+    "nodemon": "^2.0.19"
+  }
+}
