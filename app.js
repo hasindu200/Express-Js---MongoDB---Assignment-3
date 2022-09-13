@@ -1,11 +1,12 @@
 const express = require('express')
 const mongoose = require('mongoose')
 const login = require('./routes/login')
+const post = require('./routes/post')
+const user = require('./routes/user')
 const port = 4000;
 const app = express()
 
-
-
+app.use(express.json());
 
 const url = 'mongodb://127.0.0.1/express'
 
@@ -24,3 +25,5 @@ app.listen(port,(req,res) => {
 
 
 app.use('/login',login)
+app.use('/user',user)
+app.use('/post',post)
