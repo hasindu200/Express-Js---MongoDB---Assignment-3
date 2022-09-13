@@ -13,6 +13,11 @@ mongoose.connect(url,{useNewUrlParser: true})
 const con = mongoose.connection
 
 
+con.on("open", ()=>{
+    console.log('MongoDB Connected');
+})
+
+
 app.listen(port,(req,res) => {
     console.log(`Example app listening on port ${port}`);
 })

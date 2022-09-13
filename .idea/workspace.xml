@@ -3,7 +3,7 @@
   <component name="ChangeListManager">
     <list default="true" id="ec54ba28-eee1-4867-9713-62e11dcd7ba7" name="Changes" comment="complete the login page">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/routes/user.js" beforeDir="false" afterPath="$PROJECT_DIR$/routes/user.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app.js" beforeDir="false" afterPath="$PROJECT_DIR$/app.js" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -48,7 +48,7 @@
       <workItem from="1662924580129" duration="2828000" />
       <workItem from="1663088900429" duration="39000" />
       <workItem from="1663088949829" duration="29000" />
-      <workItem from="1663089101650" duration="3868000" />
+      <workItem from="1663089101650" duration="4887000" />
     </task>
     <task id="LOCAL-00001" summary="complete the login page">
       <created>1663092433925</created>
